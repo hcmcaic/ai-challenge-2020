@@ -1,4 +1,4 @@
-CenterNet HourGlass104 512x512,center_net_hourglass104_512x512_coco17_tpu-8.config,centernet_hg104_512x512_coco17_tpu-8.tar.gz
+CenterNet HourGlass104 512x512,centernet_hourglass104_512x512_coco17_tpu-8.config,centernet_hg104_512x512_coco17_tpu-8.tar.gz
 EfficientDet D1 640x640,ssd_efficientdet_d1_640x640_coco17_tpu-8.config,efficientdet_d1_coco17_tpu-32.tar.gz
 SSD ResNet50 V1 FPN 640x640 (RetinaNet50),ssd_resnet50_v1_fpn_640x640_coco17_tpu-8.config,ssd_resnet50_v1_fpn_640x640_coco17_tpu-8.tar.gz
 Faster R-CNN ResNet50 V1 640x640,faster_rcnn_resnet50_v1_640x640_coco17_tpu-8.config,faster_rcnn_resnet50_v1_640x640_coco17_tpu-8.tar.gz
